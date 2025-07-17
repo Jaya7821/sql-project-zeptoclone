@@ -66,8 +66,8 @@ zepto-clone-sql/
 
 
 👩‍💻 Author
-Ramya Krishna Tadapaneni
-GitHub: @ramyakrishna589
+Poola Jayasree
+Github: Jaya7821
 
 📄 License
 This project is open-source and available under the MIT License.
